@@ -2,17 +2,17 @@
 
 ## Sheriff Adeoti
 <br>
-<span style="color:#424242">Summary</span>
+<span style="color:#536DFE">Summary</span>
 <br>
-<span style="color:gray">On</span>
+<span style="color:#536DFE">On</span>
 <br>
-<span style="color:gray">Andela Homestudy Curriculum</span>
+<span style="color:#304FFE">Andela Homestudy Curriculum</span>
 
 ---
 
 ### Module 1
 <br>
-<span style="color:gray">Computer Science</span>
+<span style="color:#5D4037">Computer Science</span>
 <br>
 Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process. 
 
@@ -25,7 +25,7 @@ step list of instructions for solving any instance of the problem that might ari
 
 ### Module 2
 <br>
-<span style="color:gray">Programming</span>
+<span style="color:#5D4037">Programming</span>
 <br>
 Programming is the process of taking an algorithm and encoding it into a notation, a programming language, so that it can be executed by a computer.
 
@@ -90,7 +90,7 @@ print("Not turning at all")
 ```
 ---
 #### Module 3
-<span style="color:gray; font-size:0.6em;">Object Oriented Programming</span>
+<span style="color:#5D4037">Object Oriented Programming</span>
 
 <br>
 Object-oriented programming (OOP) is a programming language model organized around objects rather than "actions" and data rather than logic. Historically, a program has been viewed as a logical procedure that takes input data, processes it, and produces output data.
