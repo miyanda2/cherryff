@@ -2,7 +2,7 @@
 
 ## Sheriff Adeoti
 <br>
-<span style="color:gray">Summary</span>
+<span style="color:blue">Summary</span>
 <br>
 <span style="color:gray">on</span>
 <br>
@@ -25,7 +25,7 @@ step list of instructions for solving any instance of the problem that might ari
 
 ### Module 2
 <br>
-<span style="color:gray; font-size:0.6em;">Programming</span>
+<span style="color:gray">Programming</span>
 <br>
 Programming is the process of taking an algorithm and encoding it into a notation, a programming language, so that it can be executed by a computer.
 
@@ -113,5 +113,4 @@ nemo = pet()
 nemo.number_of_legs = 0
 nemo.count_legs()
 ```
----
 
