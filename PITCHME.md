@@ -40,8 +40,10 @@ print (i)
 ```
 ---
 #### Variable
+
 <br>
 variable can be used to manipulate values inside code.
+
 ```python
 total = 0
 for i in 1, 3, 7:
@@ -52,6 +54,7 @@ print(total)
 ---
 
 #### Challenge
+
 <br>
 Make a one line Python statement that uses both sum and range to print the sum of the numbers 1
 through 10?
@@ -83,7 +86,6 @@ print("Turning anticlockwise")
 else:
 print("Not turning at all")
 ```
-
 ---
 #### Module 3
 <span style="color:gray; font-size:0.6em;">Object Oriented Programming</span>
