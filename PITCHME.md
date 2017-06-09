@@ -32,6 +32,8 @@ Programming is the process of taking an algorithm and encoding it into a notatio
 <br>
 Although many programming languages and many different types of computers exist, the important first step is the need to have the solution. Without an algorithm there can be no program.
 
+---
+
 #### Loops
 
 ```python
