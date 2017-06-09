@@ -39,7 +39,6 @@ for i in 2, 4, 6, 8
 print (i)
 ```
 ---
-
 ####Variable
 <br>
 variable can be used to manipulate values inside code.
@@ -51,6 +50,7 @@ print(total)
 ```
 <br>
 ---
+
 ####Challenge
 <br>
 Make a one line Python statement that uses both sum and range to print the sum of the numbers 1
@@ -107,6 +107,5 @@ dog.number_of_legs = 4
 fish = pet()
 fish.number_of_legs = 0
 fish.count_legs()
-```
 ---
 
