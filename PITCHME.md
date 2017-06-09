@@ -106,11 +106,11 @@ class pet()
 		
 	def count_legs(self):
 		print "I have %s Legs " % self.number_of_legs
-dog = pet()
-dog.sleep()
-dog.number_of_legs = 4
-fish = pet()
-fish.number_of_legs = 0
-fish.count_legs()
+doug = pet()
+doug.sleep()
+doug.number_of_legs = 4
+nemo = pet()
+nemo.number_of_legs = 0
+nemo.count_legs()
 ---
 
