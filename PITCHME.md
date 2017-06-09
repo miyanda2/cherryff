@@ -71,8 +71,8 @@ print sum (range (1,10))
 ```python
 def say_hello_to(name):
 	print("Hello " + name)
-say_hello_to("Miranda")
-say_hello_to("Fred")
+say_hello_to("Tyron")
+say_hello_to("Sara")
 ```
 ---
 #### Conditional
@@ -89,8 +89,6 @@ print("Not turning at all")
 ---
 #### Module 3
 <span style="color:gray; font-size:0.6em;">Object Oriented Programming</span>
-
-
 
 <br>
 Object-oriented programming (OOP) is a programming language model organized around objects rather than "actions" and data rather than logic. Historically, a program has been viewed as a logical procedure that takes input data, processes it, and produces output data.
