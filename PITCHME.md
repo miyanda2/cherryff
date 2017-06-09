@@ -2,9 +2,9 @@
 
 ## Sheriff Adeoti
 <br>
-<span style="color:blue">Summary</span>
+<span style="color:#424242">Summary</span>
 <br>
-<span style="color:gray">on</span>
+<span style="color:gray">On</span>
 <br>
 <span style="color:gray">Andela Homestudy Curriculum</span>
 
