@@ -90,13 +90,13 @@ print("Not turning at all")
 #### Module 3
 <span style="color:gray; font-size:0.6em;">Object Oriented Programming</span>
 
-**class**
+
 
 <br>
 Object-oriented programming (OOP) is a programming language model organized around objects rather than "actions" and data rather than logic. Historically, a program has been viewed as a logical procedure that takes input data, processes it, and produces output data.
 
 ---
-
+**class**
 ```python
 class pet()
 	number_of_legs = 0
@@ -112,5 +112,6 @@ doug.number_of_legs = 4
 nemo = pet()
 nemo.number_of_legs = 0
 nemo.count_legs()
+```
 ---
 
