@@ -12,7 +12,7 @@
 
 ### Module 1
 <br>
-<span style="color:#5D4037">Computer Science</span>
+<span style="color:#FFFF00">Computer Science</span>
 <br>
 Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process. 
 
@@ -25,7 +25,7 @@ step list of instructions for solving any instance of the problem that might ari
 
 ### Module 2
 <br>
-<span style="color:#5D4037">Programming</span>
+<span style="color:#FFFF00">Programming</span>
 <br>
 Programming is the process of taking an algorithm and encoding it into a notation, a programming language, so that it can be executed by a computer.
 
@@ -90,7 +90,7 @@ print("Not turning at all")
 ```
 ---
 #### Module 3
-<span style="color:#5D4037">Object Oriented Programming</span>
+<span style="color:#FFFF00">Object Oriented Programming</span>
 
 <br>
 Object-oriented programming (OOP) is a programming language model organized around objects rather than "actions" and data rather than logic. Historically, a program has been viewed as a logical procedure that takes input data, processes it, and produces output data.
