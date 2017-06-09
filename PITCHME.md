@@ -1,6 +1,6 @@
 
 
-## MICHEAL IYANDA
+## Sheriff Adeoti
 <br>
 <span style="color:gray">Summary</span>
 <br>
@@ -12,10 +12,10 @@
 
 ### Module 1
 <br>
-<span style="color:gray">introduction to computer science</span>
+<span style="color:gray">Computer Science</span>
 <br>
-Computer science is the study of problems, problem-solving, and the solutions that come out of the
-problem-solving process.
+Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process. 
+
 <br>
 A computer scientist’s goal is to develop an algorithm, a stepby-
 step list of instructions for solving any instance of the problem that might arise.
@@ -25,10 +25,12 @@ step list of instructions for solving any instance of the problem that might ari
 
 ### Module 2
 <br>
-<span style="color:gray; font-size:0.6em;">Introduction to Programming</span>
+<span style="color:gray; font-size:0.6em;">Programming</span>
 <br>
-Programming is the process of taking an algorithm and encoding it into a notation, a programming
-language, so that it can be executed by a computer.
+Programming is the process of taking an algorithm and encoding it into a notation, a programming language, so that it can be executed by a computer.
+
+<br>
+Although many programming languages and many different types of computers exist, the important first step is the need to have the solution. Without an algorithm there can be no program.
 
 ####Loops
 ```python
@@ -36,20 +38,7 @@ for i in 2, 4, 6, 8
 print (i)
 ```
 ---
-####Challenge
-Can you make a range equivalent to [2, 4, 6, 8]
-<br>
-```python
-numbers = range(1,10)
-even = []
-for i in numbers:
-    
-    if i%2 ==0:
-        even.append(i)
-print (even)
-```
 
----
 ####Variable
 <br>
 variable can be used to manipulate values inside code.
@@ -63,7 +52,7 @@ print(total)
 ---
 ####Challenge
 <br>
-Can you make a one line Python statement that uses both sum and range to print the sum of the numbers 1
+Make a one line Python statement that uses both sum and range to print the sum of the numbers 1
 through 10?
 <br>
 
@@ -98,6 +87,9 @@ print("Not turning at all")
 ####Module 3
 <span style="color:gray; font-size:0.6em;">Object Oriented Programming</span>
 **class**
+
+<br>
+Object-oriented programming (OOP) is a programming language model organized around objects rather than "actions" and data rather than logic. Historically, a program has been viewed as a logical procedure that takes input data, processes it, and produces output data.
 
 ```python
 class pet()
