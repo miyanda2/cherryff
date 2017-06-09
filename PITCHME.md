@@ -35,6 +35,7 @@ Although many programming languages and many different types of computers exist,
 ---
 
 #### Loops
+Repeats a statement or group of statements while a given condition is TRUE.
 
 ```python
 for i in 2, 4, 6, 8
