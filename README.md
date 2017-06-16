@@ -31,7 +31,6 @@ Programming is the process of taking an algorithm and encoding it into a notatio
 <li>Range</li>
 <li>while loop</li>
 	
-
 # Module 3. **Object Oriented Programming.**
 
 <br>
@@ -47,4 +46,24 @@ Object-oriented programming (OOP) is a programming language model organized arou
 <li>Inheritance</li>
 <li>constructors</li>
 	
+
+### Module 4. **Data Structure.**
+
+<br>
+
+Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. Data Structures is about rendering data elements in terms of some relationship, for better organization and storage.
+
+# Basic types of Data Structures
+
+<br>
+
+As we discussed above, anything that can store data can be called as a data strucure, hence Integer, Float, Boolean, Char etc, all are data structures.
+They are known as Primitive Data Structures.
+Then we also have some complex Data Structures, which are used to store large and connected data. Some example of Abstract Data Structure are:
+
+<ol>
+<li>Linked List</li>
+<li>Tree</li>
+<li>Graph</li>
+<li>Stack, Queue etc.</li>
 
